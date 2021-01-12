@@ -1,4 +1,6 @@
+# infinite input
+
 n=1
 while n>0:
     tes = input()
-    print(tes)#tes
+    print(tes)
